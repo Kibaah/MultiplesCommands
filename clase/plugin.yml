@@ -1,0 +1,21 @@
+main: com.jaime.clase.main
+name: mas de una clase
+version: 1.0
+author: Kibah
+description: Te cura
+commands:
+  heal:
+    aliases: [h]
+    description: haz /heal para curarte!
+    
+  gamec:
+    aliases: [g]
+    description: Prueba le creativo con /gamec !
+  
+  flyspeed:
+    aliases: [s]
+    description: Date un subidon con /flyspeed !
+    
+  flynormal:
+    aliases: [n]
+    description: Te aburriste, usa /flynormal para volver!
